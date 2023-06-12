@@ -107,8 +107,11 @@ body{
     transition: 0.5s;
 }
 .profile-details .intro .social i:hover{
-    transform: scale(1.2);
+    transform: scale(1.3);
     border: 1px solid rgba(250, 246, 246, 0.3);
+}
+.row .content a:hover{
+    color: rgb(59, 105, 233);
 }
 .profile-details .contact-info{
     background-color: #1d1d1d;
