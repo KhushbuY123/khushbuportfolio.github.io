@@ -111,7 +111,7 @@ body{
     border: 1px solid rgba(250, 246, 246, 0.3);
 }
 .row .content a:hover{
-    color: rgb(59, 105, 233);
+    color: #e21b5a;
 }
 .profile-details .contact-info{
     background-color: #1d1d1d;
