@@ -237,7 +237,7 @@ body{
 @media(max-width:768px){
     .about{
         width: 1005;
-        max-width: 380px;
+        max-width: 310px;
         padding: 1rem;
         margin: 1rem;
     }
